@@ -1,6 +1,6 @@
 import React from 'react'
 import Nav from './Nav.jsx'
-import Bigcard from './bigcard.jsx'
+import Bigcard from './Bigcard.jsx'
 import Card from './card.jsx';
 import About from './about.jsx';
 import Card2 from './Card2.jsx';
