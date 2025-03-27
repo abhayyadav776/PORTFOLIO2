@@ -8,9 +8,10 @@ import Card3 from './Card3.jsx';
 import Photobanner from './Photobanner.jsx';
 import Mypricing from './Mypricing.jsx';
 import Icons from './Icons.jsx';
-import Clients from './clients.jsx';
 import Latest from './Latest.jsx';
 import Footer from './Footer.jsx';
+import Client from './Client.jsx';
+
 
 
 
@@ -26,7 +27,7 @@ const Home = () => {
       <Photobanner/>
       <Mypricing/>
       <Icons/>
-      <Clients/>
+      <Client/>
       <Latest/>
       <Footer/>
       
